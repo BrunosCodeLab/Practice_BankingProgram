@@ -17,9 +17,9 @@ This project demonstrates basic banking operations using Python functions. It se
 
 ## Code Explanation <br>
 ### Functions
-**`show_balance(balance)`** - Displays the account balance in a formatted style.
-**`deposit()`** - Prompts the user to enter a deposit amount. Validates the input to ensure it’s a positive number.
-**`withdraw(balance)`** -Prompts the user for a withdrawal amount. Ensures the amount is positive and doesn’t exceed the current balance.
+**`show_balance(balance)`** - Displays the account balance in a formatted style. <br>
+**`deposit()`** - Prompts the user to enter a deposit amount. Validates the input to ensure it’s a positive number. <br>
+**`withdraw(balance)`** -Prompts the user for a withdrawal amount. Ensures the amount is positive and doesn’t exceed the current balance. <br>
 
 ## Main Program Logic
 Uses a while loop for a menu-driven interface with the following options:
