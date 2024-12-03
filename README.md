@@ -7,7 +7,6 @@ Practice, regardless of its depth, strengthens skills, improves understanding, a
 
 
 # Banking Program
-Overview
 This project demonstrates basic banking operations using Python functions. It serves as a hands-on exercise to improve coding skills by simulating a simple banking program.
 
 ## Features
