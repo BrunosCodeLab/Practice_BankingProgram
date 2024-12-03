@@ -6,7 +6,7 @@ Practice, regardless of its depth, strengthens skills, improves understanding, a
 </div> 
 
 
-# Banking Program
+# Banking Program ![Project Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBrunosCodeLab%2FPractice_BankingProgram&count_bg=%235C9CFF&title_bg=%23008FC9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 This project demonstrates basic banking operations using Python functions. It serves as a hands-on exercise to improve coding skills by simulating a simple banking program.
 
 ## Features
