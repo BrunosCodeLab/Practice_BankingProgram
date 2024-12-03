@@ -1,6 +1,11 @@
 ## Any Practice is Better Than No Practice
 Practice, regardless of its depth, strengthens skills, improves understanding, and builds confidence. Every step forward contributes to long-term progress, making even small efforts worthwhile. Starting with simple tasks leads to greater accomplishments over time.
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/BrunosCodeLab/Images/refs/heads/main/Practice_BankingProgram/Iverson%20Practice.gif" alt="Banner" width="500" />
+</div> 
+
+
 # Banking Program
 Overview
 This project demonstrates basic banking operations using Python functions. It serves as a hands-on exercise to improve coding skills by simulating a simple banking program.
